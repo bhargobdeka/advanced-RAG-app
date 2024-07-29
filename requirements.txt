@@ -1,0 +1,6 @@
+langchain 
+langchain-chroma 
+unstructured[all-docs] 
+pydantic 
+lxml 
+langchainhub
