@@ -61,3 +61,11 @@ pip install -r requirements.txt
 brew install tesseract
 brew install poppler
 ```
+
+### Run the Application
+
+Run the application using
+
+```bash
+streamlit run main.py
+```
